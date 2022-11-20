@@ -9,7 +9,6 @@ public class ISBN0201558025{
     public String preview;
     public String preview_url;
     public String thumbnail_url;
-    private LCCN93005405 lccn93005405;
 }
 
 
